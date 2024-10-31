@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Alexandria:wght@100..900&family=Almarai:wght@300;400;700;800&family=Cairo:wght@200..1000&family=Changa:wght@200..800&family=Kufam:ital,wght@0,400..900;1,400..900&family=Markazi+Text:wght@400..700&family=Noto+Kufi+Arabic:wght@100..900&family=Noto+Sans+Arabic:wght@100..900&family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&family=Raleway:ital,wght@0,100..900;1,100..900&family=Ruwudu:wght@400;500;600;700&family=Tajawal:wght@200;300;400;500;700;800;900&display=swap');
+
+*{
+  font-family: "Changa", sans-serif;
+}
+
+body{
+  background: linear-gradient(to right, #0B3F28, #176C45);
+}
+
+.lo-form{
+  border: 1px white solid;
+  border-radius: 13px;
+  width: 400px;
+  padding: 35px 5px;
+  box-shadow: 10px 10px 40px #C6FFC1;
+}
+
+.login h1{
+  color: wheat;
+  text-align: right;
+  margin-right: 15px;
+  margin-top: 5%;
+  margin-bottom: 7%;
+}
+
+.login h2{
+  color: #fff;
+  text-align: right center;
+  margin-right: 15px;
+  font-size: 30px;
+}
+
+.login p{
+  text-align: center;
+  color: #fff;
+  margin-right: 15px;
+  font-size: 22px;
+}
+
+.login input{
+  background-color: #0B3F32;
+  padding: 6.2px 50px;
+  margin-right: 13px;
+  border: 1px #0B3F32 solid;
+  border-radius: 10px;
+  color: #fff;
+  font-size: 18px;
+}
+
+.login button{
+  padding: 4px 110px;
+  margin-right: 15px;
+  background: #C6FFC1;
+  border: 1px solid #C6FFC1;
+  color: #000;
+  font-size: 19px;
+  border-radius: 11px;
+  transition: 0.5s;
+}
+
+.login button:hover{
+  background: #EEFFEC;
+  transform: translateY(-10px);
+}
+
+.footer{
+  text-align: center;
+  color: #fff;
+  margin-top: 10%;
+  line-height: 12px;
+}
+
+.footer a{
+  text-decoration: none;
+  color: wheat;
+} 

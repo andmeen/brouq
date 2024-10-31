@@ -1,0 +1,30 @@
+{
+    "name": "بروق | Brouq",
+    "short_name": "Brouq",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#176C45",
+    "orientation": "#176C45",
+    "icons": [
+        {
+            "src": "/icons-mani/icon-72x72.png",
+            "type": "image/png",
+            "sizes": "72x72"
+        },
+        {
+            "src": "/icons-mani/icon-192x192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/icons-mani/icon-384x384.png",
+            "type": "image/png",
+            "sizes": "384x384"
+        },
+        {
+            "src": "/icons-mani/icon-512x512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
