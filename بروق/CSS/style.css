@@ -232,10 +232,24 @@ header .navbar ul li ul li{
 
 .hero a{
   text-decoration: none;
+  font-size: 30px;
+  color: #fff;
+  font-weight: 600;
+}
+
+.hero button{
   color: #fff;
   background: linear-gradient(to right, #f59506 35%, #176C45);
+  border: none;
   padding: 5px 5px;
+  margin-right: 10px;
   border-radius: 13px;
+  transition: 0.5s;
+}
+
+.hero button:hover{
+  transform: translateY(-10px);
+  background: linear-gradient(to right, #f59506, #f59506);
 }
 
 .footer{
